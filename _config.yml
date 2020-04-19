@@ -31,7 +31,8 @@ github_username:  DigvijayPati
 linkedin: digvijay-patil-ab036752
 
 # Build settings
-theme: minima
+# Removed minima theme as it is regular theme.
+#theme: minima
 plugins:
   - jekyll-feed
 
