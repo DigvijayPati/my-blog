@@ -36,6 +36,7 @@ author: Digvijay M. Patil
 # custom field
 copyright: "Siimple Technologies"
 
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as it is regular theme.
