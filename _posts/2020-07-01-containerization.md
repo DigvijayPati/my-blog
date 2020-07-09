@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Containerization!"
+title:  "Embedded-Linux Distribution!"
 date:   2020-07-01 17:14:32 +0200
 categories: jekyll update
 ---
