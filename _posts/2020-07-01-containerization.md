@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Create your own Embedded-Linux Distribution!
 
-There are many open source frameworks for building custom embedded Linux systems. 
+There are many open source frameworks available for building custom embedded Linux systems. 
 
 ### [Yocto](https://www.yoctoproject.org/)
 
