@@ -10,4 +10,7 @@ There are many open-source frameworks available for building custom embedded Lin
 
 ### [Yocto](https://www.yoctoproject.org/)
 
+Basics are explained here >> [Build custom embedded Linux distributions with the Yocto Project](https://developer.ibm.com/technologies/linux/tutorials/l-yocto-linux/)
+
+
 ### [Buildroot](https://buildroot.org/)
