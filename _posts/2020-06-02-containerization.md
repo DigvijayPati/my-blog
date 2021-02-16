@@ -27,7 +27,7 @@ Best Container tools that are available in the market are as follows:
 
 ### Container Orchestration
 
-Container Orchestration simply refers to processes used to manage containers and to automate the management of containers
+Container Orchestration simply refers to processes used to manage containers and to automate the management of containers. It handles container deployment & management. 
 
 Best Container Orchestration tools that are available in the market are as follows:
 * Kubernetes
