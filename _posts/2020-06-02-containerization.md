@@ -19,17 +19,17 @@ In logistics, containers hide what's inside and can easily be transported becuas
 
 In Software, Container packages up software code and its dependancies into Standardized Units so the application runs quickly and reliably from one computing environment to another. Containers consits of prefabricated applications. 
 
-Best Container Tools that are available in the market are as follows:
+Best Container tools that are available in the market are as follows:
 * Docker
 * LXC
 * Google Kubernetes Engine
 * RedHat openShift
 
-## Container orchestration
+### Container Orchestration
 
 Container Orchestration simply refers to processes used to manage containers and to automate the management of containers
 
-Best Container Orchestration Tools that are available in the market are as follows:
+Best Container Orchestration tools that are available in the market are as follows:
 * Kubernetes
 * LXC
 * Docker Swarm (officialy dead now in the market)
