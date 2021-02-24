@@ -19,6 +19,8 @@ In logistics, containers hide what's inside and can easily be transported becuas
 
 In Software, Container packages up software code and its dependancies into Standardized Units so the application runs quickly and reliably from one computing environment to another. Containers consits of prefabricated applications. 
 
+This is one step ahead of the virtual machine where each application running in isolate container and share a common host kernel. unlike a virtual machine, you don’t need to install OS in each container.
+
 Best Container tools that are available in the market are as follows:
 * Docker
 * LXC
